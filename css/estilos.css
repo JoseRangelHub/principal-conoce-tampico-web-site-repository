@@ -1,0 +1,73 @@
+body {
+  background-color: lightgray;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.contenedor {
+  background-color: white;
+  margin-top: 40px;
+  margin-left: 300px;
+  margin-right: 300px;
+  border: 1px solid #ccc;
+  box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);
+  border-radius: 5px;
+}
+
+header {
+  display: flex;
+  align-items: center;
+  margin-left: 40px;
+  margin-right: 40px;
+  margin-top: 10px;
+}
+
+header nav {
+  margin-left: auto;
+  display: flex;
+  gap: 20px;
+}
+
+header nav a,
+a:link {
+  text-decoration: none;
+  color: grey;
+}
+
+header nav a:visited {
+  color: grey;
+}
+
+header nav a:active {
+  color: grey;
+}
+
+header nav a:hover {
+  color: lightgray; /* Puedes cambiar el color aquí para dar feedback visual */
+}
+
+.contenido {
+  display: flex;
+  margin-left: 40px;
+  margin-right: 40px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  gap: 60px;
+}
+
+main {
+  width: 70%;
+}
+
+footer {
+  margin-left: 300px;
+  margin-top: 0px;
+}
+
+.texto-logo {
+  color: gray;
+}
+
+p {
+  text-align: justify;
+  max-width: 100%;
+}
