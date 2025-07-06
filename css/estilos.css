@@ -42,7 +42,7 @@ header nav a:active {
 }
 
 header nav a:hover {
-  color: lightgray; /* Puedes cambiar el color aquí para dar feedback visual */
+  color: lightgray;
 }
 
 .contenido {
@@ -70,4 +70,16 @@ footer {
 p {
   text-align: justify;
   max-width: 100%;
+}
+
+aside {
+  width: 30%;
+}
+
+aside h3 {
+  margin-top: 0px;
+}
+
+aside img {
+  margin-bottom: 10px;
 }
