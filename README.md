@@ -5,7 +5,8 @@ Conoce Tampico
 
 📸 Vistazo Rápido
 
-![image](https://github.com/user-attachments/assets/16c5e9b7-bd7b-410e-a39d-90d3b8e07b57)
+![image](https://github.com/user-attachments/assets/5c332a44-73ff-47b0-add8-479d74e6c021)
+
 
 
 ✨ Características Destacadas
