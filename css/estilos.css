@@ -83,3 +83,8 @@ aside h3 {
 aside img {
   margin-bottom: 10px;
 }
+
+input,
+textarea {
+  width: 100%;
+}
