@@ -9,6 +9,7 @@ Conoce Tampico
 
 
 ✨ Características Destacadas
+
 Explora Atracciones: Descubre los sitios más emblemáticos, desde la Laguna del Carpintero hasta la Plaza de la Libertad.
 
 Deléitate con la Gastronomía: Una inmersión en los sabores locales, destacando las famosas tortas de la barda, mariscos frescos y mucho más.
@@ -20,6 +21,7 @@ Eventos Actuales: Mantente informado sobre los eventos y actividades que se desa
 Consejos para el Viajero: Guías prácticas y recomendaciones para hacer de tu visita una experiencia inolvidable.
 
 📧 Contacto
+
 Si tienes preguntas, sugerencias o simplemente quieres saludar, no dudes en contactarme:
 
 Nombre/Alias: José Rangel
